@@ -1,0 +1,29 @@
+:root {
+    --bg-green: #28A745;
+}
+
+.bg-green{
+    background-color: var(--bg-green);
+}
+
+.logo {
+    width: 86px;
+    height: 25px;
+}
+
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+.card-text {
+    margin-bottom: 1px;
+}
+
+.logo1 {
+    width: 82px;
+    height: 24px;
+}
+
+footer {
+    font-family: 'roboto', sans-serif;
+}
